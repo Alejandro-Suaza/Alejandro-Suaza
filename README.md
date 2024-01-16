@@ -5,7 +5,7 @@
 <p>I am a FrontEnd developer passionate about technology, with knowledge of HTML, CSS, and JavaScript. Without work experience but wanting to enter this field and continue increasing my knowledge.</p>
 
 <h3>Soft skills</h3>
-<br>-Comunicacion Efectiva
+-Comunicacion Efectiva
 <br>-Colaboracion entre equipos
 <br>-Tolerancia
 <br>-Resolucion de problemas
