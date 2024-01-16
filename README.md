@@ -11,6 +11,7 @@
 <br>-Resolucion de problemas
 <br>
 <br>
+
 - 🌱 I’m currently learning **Frontend with HTML, CSS and JavaScript language**
 
 <h3 align="left">Connect with me:</h3>
