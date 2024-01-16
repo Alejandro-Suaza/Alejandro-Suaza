@@ -3,7 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/diego-alejandro-suaza-3553392aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/diego-alejandro-suaza-3553392aa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diego-alejandro-suaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-alejandro-suaza" height="30" width="40" /></a>
+<a href="https://fb.com/diegoalejandro.suazavelez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diegoalejandro.suazavelez" height="30" width="40" /></a>
+<a href="https://instagram.com/alejosuaza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejosuaza_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
