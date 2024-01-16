@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Diego Alejandro Suaza</h1>
 <h3 align="center">Frontend developer, passionate about technology and development</h3>
 
+<h3>About</h3>
+<p>I am a FrontEnd developer passionate about technology, with knowledge of HTML, CSS, and JavaScript. Without work experience but wanting to enter this field and continue increasing my knowledge.</p>
+
+<h3>Soft skills</h3>
+-Comunicacion Efectiva
+-Colaboracion entre equipos
+-Tolerancia
+-Resolucion de problemas
+
 - 🌱 I’m currently learning **Frontend with HTML, CSS and JavaScript language**
 
 <h3 align="left">Connect with me:</h3>
